@@ -5,7 +5,14 @@
 # +DRIVER_KEY to mark it as implied-tested.
 # Actually Arcshell AR-6 which is a direct clone
 Abbree_AR-63,@KC9HI,30-Nov-2022
+Alinco_DJ175,+Alinco_DR235T,12-Dec-2022
+Alinco_DJ596,+Alinco_DR235T,12-Dec-2022
 Alinco_DJ-G7EG,@HB9UF,09-Dec-2022
+Alinco_DR03T,+Alinco_DR235T,12-Dec-2022
+Alinco_DR06T,+Alinco_DR235T,12-Dec-2022
+Alinco_DR135T,+Alinco_DR235T,12-Dec-2022
+Alinco_DR235T,@kk7ds,12-Dec-2022
+Alinco_DR435T,+Alinco_DR235T,12-Dec-2022
 Anysecu_WP-9900,@KC9HI,11-Nov-2022
 AnyTone_778UV,+Retevis_RT95,13-Nov-2022
 AnyTone_778UV_VOX,+Retevis_RT95,13-Nov-2022
@@ -68,6 +75,7 @@ Icom_ID-880H,@kk7ds,22-Oct-2022
 Icom_IC-Q7A,@KC9HI,20-Nov-2022
 Intek_KT-980HP,+Baofeng_BF-F8HP,18-Nov-2022
 Intek_HR-2040,+AnyTone_5888UV,9-Dec-2022
+Jetstream_JT220M,+Alinco_DR235T,12-Dec-2022
 Kenwood_HMK,+Generic_CSV,4-Dec-2022
 Kenwood_TH-D72_clone_mode,@kk7ds,28-Nov-2022
 Kenwood_TH-D72_live_mode,@kk7ds,21-Oct-2022
